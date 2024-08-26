@@ -23,6 +23,8 @@ Our client has asked us to locate the cannon. Use the image below to find the lo
 
 ![Kanon](https://github.com/user-attachments/assets/759ae1e5-2fb2-47a5-9efa-588c9b950466)
 
+### Answer Instruction:
+
 ```
 Use your findings to generate the answer. For this you will need the service: https://what3words.com/
 
