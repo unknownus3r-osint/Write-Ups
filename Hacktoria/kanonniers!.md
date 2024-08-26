@@ -16,8 +16,19 @@ Our friends at the AIVD however once observed a member of The Golden Creed inser
 This leads us to your objective. Last week, an operative of The Golden Creed was arrested by Dutch police. Carrying a picture with him of an old cannon. Given their tendency to hide information in historical objects, we believe this particular cannon is a location of interest. Possibly holding information, or being frequently used to pass information.
 
 Our client has asked us to locate the cannon. Use the image below to find the location of the cannon.
+
 ```
 
 ### Materials:
 
 ![Kanon](https://github.com/user-attachments/assets/759ae1e5-2fb2-47a5-9efa-588c9b950466)
+
+```
+Use your findings to generate the answer. For this you will need the service: https://what3words.com/
+
+Format:
+areacode-city-what-three-words
+
+Example:
+5555-nice-belt-hamburger-phone****
+```
