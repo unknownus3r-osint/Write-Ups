@@ -1,8 +1,8 @@
-kanonniers!
+# kanonniers!
 
 -----------------------------------------
 
-###Briefing:
+### Briefing:
 
 ```
 Greetings, Special Agent K. We are on the hunt for operatives of a competing organization. We believe them to be the continuation of a rival Order “The Golden Creed”, who we eradicated mid 18th century. Somehow the family running the Order managed to reorganize and fund new endeavors. Flying under the radar for several years, they now have a foothold in many European countries.
