@@ -17,3 +17,7 @@ This leads us to your objective. Last week, an operative of The Golden Creed was
 
 Our client has asked us to locate the cannon. Use the image below to find the location of the cannon.
 ```
+
+### Materials:
+
+![Kanon](https://github.com/user-attachments/assets/759ae1e5-2fb2-47a5-9efa-588c9b950466)
