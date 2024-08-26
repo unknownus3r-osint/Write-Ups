@@ -38,8 +38,8 @@ Example:
 
 1. Download and search image using google lens
    
-![kanon results](https://github.com/user-attachments/assets/8eec58ac-7c0d-47e5-80a3-6da07da85100)
+   ![kanon results](https://github.com/user-attachments/assets/8eec58ac-7c0d-47e5-80a3-6da07da85100)
 
 2. Go to website https://www.wikiloc.com/hiking-trails/elburg-stadswandeling-55962141 from the google lens results
    
- ![kanon location](https://github.com/user-attachments/assets/f2534549-fbdf-4a0d-9d6c-bc6a020a54cf)
+    ![kanon location](https://github.com/user-attachments/assets/f2534549-fbdf-4a0d-9d6c-bc6a020a54cf)
