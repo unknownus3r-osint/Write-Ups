@@ -36,7 +36,7 @@ Example:
 ```
 ### Solving:
 
-1. Downloaded and searched image using google lens, one of the results on the first scroll looked the same 
+1. Downloaded and searched image using google lens, one of the results on the first scroll looked the same.
    
    ![kanon results](https://github.com/user-attachments/assets/8eec58ac-7c0d-47e5-80a3-6da07da85100)
 
