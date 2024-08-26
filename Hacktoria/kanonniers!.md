@@ -44,13 +44,15 @@ Example:
 
    ![kanon location](https://github.com/user-attachments/assets/f2534549-fbdf-4a0d-9d6c-bc6a020a54cf)
 
-4. Once I've confirmed that it was the same kanon, went to https://what3words.com/, search for Elburg, Netherlands and looked for the same spot that I found from the wikiloc site.
+4. Once I've confirmed that it was the same kanon, went to https://what3words.com/, searched for Elburg, Netherlands and looked for the same spot that I found from the wikiloc site.
   
    ![kanon what3words](https://github.com/user-attachments/assets/86322448-462b-41da-94cf-4d7bfd56cf04)
 
-5. Now that I had the what3words for the kanon, did a quick google search for the area code for Elburg, Netherlands. The result was 0525.
+   Note: The castle icon showing where the spot of kanon is slightly off. 
 
-6. Combine the area code and what3words to get 0525-elburg-punk-runways-messed, unlocking the zip file for the badge.
+6. Now that I had the what3words for the kanon, did a quick google search for the area code for Elburg, Netherlands. The result was 0525.
+
+7. Combine the area code and what3words to get 0525-elburg-punk-runways-messed, unlocking the zip file for the badge.
 
    ![badge Kanonniers](https://github.com/user-attachments/assets/f3d9659f-2785-47ec-8cdd-a0d2ff70d35d)
    
