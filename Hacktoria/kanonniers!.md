@@ -36,10 +36,30 @@ Example:
 ```
 ### Solving:
 
-1. Download and search image using google lens
+1. Downloaded and searched image using google lens, one of the results on the first scroll looked the same 
    
    ![kanon results](https://github.com/user-attachments/assets/8eec58ac-7c0d-47e5-80a3-6da07da85100)
 
-2. Go to website https://www.wikiloc.com/hiking-trails/elburg-stadswandeling-55962141 from the google lens results
+2. Went to website https://www.wikiloc.com/hiking-trails/elburg-stadswandeling-55962141 from the google lens results to confirm that it was the same kanon. 
+
+   ![kanon location](https://github.com/user-attachments/assets/f2534549-fbdf-4a0d-9d6c-bc6a020a54cf)
+
+4. Once I've confirmed that it was the same kanon, went to https://what3words.com/, search for Elburg, Netherlands and looked for the same spot that I found from the wikiloc site.
+  
+   ![kanon what3words](https://github.com/user-attachments/assets/86322448-462b-41da-94cf-4d7bfd56cf04)
+
+5. Now that I had the what3words for the kanon, did a quick google search for the area code for Elburg, Netherlands. The result was 0525.
+
+6. Combine the area code and what3words to get 0525-elburg-punk-runways-messed, unlocking the zip file for the badge.
+
+   ![badge Kanonniers](https://github.com/user-attachments/assets/f3d9659f-2785-47ec-8cdd-a0d2ff70d35d)
    
-    ![kanon location](https://github.com/user-attachments/assets/f2534549-fbdf-4a0d-9d6c-bc6a020a54cf)
+### Concluding Thoughts:
+
+``` 
+Thanks for creating the challenge it was fun, didn't think it was too difficult. It could of just been that I got lucky with the google lens results. If I were to guess, from the looks of it this kanon might be a pretty popular historical landmark (or at least the city that it is located in is pretty popular) and so there could be a lot of pictures of it out there on google and other search engines. 
+
+Solve Time: 10 minutes
+```
+   
+   
