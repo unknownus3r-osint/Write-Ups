@@ -29,3 +29,15 @@ Answer Format: streetname-number-neighborhood-city-district-country
 
 Answer Sample: calle-9-sagoc-santiago-de-tolu-sucre-colombia
 ```
+
+### Solving:
+
+
+
+   
+### Concluding Thoughts:
+
+``` 
+
+
+Solve Time: 10 minut
